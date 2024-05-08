@@ -52,10 +52,6 @@ println!("rows: {}", rows.len());
 
 ## References
 
-- [KV API](./apis/kv.md)
-- [SQLite API](./apis/sqlite.md)
-- [RocksDB](https://github.com/rust-rocksdb/rust-rocksdb)
-- [SQLite](https://www.sqlite.org/docs.html)
 - [`kinode_process_lib` book entry](./process_stdlib/overview.md)
 - [`kinode_process_lib` docs.rs](https://docs.rs/kinode_process_lib)
 - [`kinode_process_lib` Github](https://github.com/kinode-dao/process_lib)
